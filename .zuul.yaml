@@ -1,5 +1,5 @@
 - job:
-    name: my-test-job-1
+    name: my-test-job
     parent: base
     description: Run tests for my project
     run: playbooks/my-test-job/run.yaml
